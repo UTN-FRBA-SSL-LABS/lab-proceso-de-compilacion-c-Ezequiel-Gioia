@@ -19,7 +19,7 @@ Este laboratorio se entrega a través de **GitHub Classroom**. Al aceptar el ass
 
 ### Paso a paso
 
-#### Paso 1: Clonar el repositorio
+#### Paso 1: Clonar el repositorio.
 
 En la página de tu repositorio en GitHub, hacé clic en **"Code"** y copiá la URL. Luego en la terminal:
 
